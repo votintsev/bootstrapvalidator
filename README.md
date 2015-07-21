@@ -1,6 +1,9 @@
-# BootstrapValidator - [v0.5.2](http://bootstrapvalidator.com/getting-started/#download)
+# [Documentation for BootstrapValidator v0.5.2](http://bootstrapvalidator.votintsev.ru/)
 
 BootstrapValidator renamed to formvalidation (http://formvalidation.io/) Documentation for old version was removed. But you can read it for v0.5.2 on http://bootstrapvalidator.votintsev.ru/
+
+
+
 
 ```
 The MIT License (MIT)
